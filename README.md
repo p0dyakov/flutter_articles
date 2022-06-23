@@ -77,12 +77,13 @@
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)  
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
 [Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
+
 MVVM 
 [Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
 [Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
-Redux
+Redux  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
-BLoC
+BLoC  
 [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
@@ -95,22 +96,23 @@ Elementary
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
 [Как подружить Elementary и BLoC](https://habr.com/ru/company/surfstudio/blog/667272/)  
-RxDart 
+
+RxDart  
 [RxDart для самых маленьких… проектов](https://habr.com/ru/post/474968/)  
 [RxVMS — практичная архитектура для Flutter-приложений ч.1](https://habr.com/ru/post/448776/)  
 [Основы Dart Streams ч.2](https://habr.com/ru/post/450950/)  
 [RxDart: магические трансформации потоков ч.3](https://habr.com/ru/post/451292/)  
 [Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
-Provider
+Provider  
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)  
-Flavors
+Flavors  
 [Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)
-Hive
+Hive  
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)
-GetX
+GetX  
 [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)  
 [GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)  
-GetIt
+GetIt  
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)  
 
 ## Dependency Injection
