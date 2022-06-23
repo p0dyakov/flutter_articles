@@ -78,7 +78,7 @@
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
 [Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
 
-MVVM 
+MVVM  
 [Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
 [Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
 Redux  
@@ -92,11 +92,10 @@ BLoC
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 
-Elementary
+Elementary  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
 [Как подружить Elementary и BLoC](https://habr.com/ru/company/surfstudio/blog/667272/)  
-
 RxDart  
 [RxDart для самых маленьких… проектов](https://habr.com/ru/post/474968/)  
 [RxVMS — практичная архитектура для Flutter-приложений ч.1](https://habr.com/ru/post/448776/)  
@@ -105,14 +104,14 @@ RxDart
 [Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
 Provider  
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)  
-Flavors  
+Flavors   
 [Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)
-Hive  
+Hive   
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)
-GetX  
+GetX   
 [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)  
 [GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)  
-GetIt  
+GetIt   
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)  
 
 ## Dependency Injection
