@@ -1,7 +1,7 @@
 # Различные полезные статьи по flutter & dart (дополняются).
 
 ## Основы
-[О Dart. Виды компиляции в нём](https://surf.ru/pochemu-flutter-ispolzuet-dart-a-ne-kotlin-ili-javascript/)  
+[Почему Flutter использует Dart, а не Kotlin или JavaScript](https://surf.ru/pochemu-flutter-ispolzuet-dart-a-ne-kotlin-ili-javascript/)  
 [Null safety в Dart](https://habr.com/ru/post/513466/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
