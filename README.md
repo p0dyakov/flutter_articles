@@ -105,14 +105,14 @@ RxDart
 Provider  
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)  
 Flavors   
-[Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)
-Hive   
-[Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)
-GetX   
-[GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)  
-[GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)  
-GetIt   
-[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)  
+[Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)  
+Hive  
+[Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)  
+GetX  
+[GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)   
+[GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)   
+GetIt  
+[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
 ## Dependency Injection
 [Flutter: Мощь DI и Injectable](https://habr.com/ru/post/654119/)  
