@@ -77,55 +77,55 @@
 
 ## State managment
 
-[Управление состоянием в приложениях на Flutter(https://habr.com/ru/post/424765/)
-[Состояние Flutter на изолятах(https://habr.com/ru/post/532862/)
-[Управление состоянием приложения в Flutter(https://habr.com/ru/post/435780/)
+[Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)  
+[Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
+[Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
  
 ### MVVM 
 
-[Flutter. MVVM. Начало(https://habr.com/ru/company/digdes/blog/660411/)
-[Архитектура MVVM в мобильных приложениях на Flutter(https://habr.com/ru/post/427327/)
+[Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
+[Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
 
 ### BLoC
 
-[Flutter. BlOC, Provider, async – архитектура «по полочкам»(https://habr.com/ru/post/489512/)
-[BLoC паттерн на простом примере(https://habr.com/ru/post/475404/)
-[Flutter. Как прокачать ваш BLoC(https://habr.com/ru/post/516764/)
+[Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
+[BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
+[Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
 
 ### Elementary
 
-[Elementary: новый взгляд на архитектуру Flutter-приложений(https://habr.com/ru/company/surfstudio/blog/595619/)
-[Как устроен Elementary(https://habr.com/ru/company/surfstudio/blog/597167/)
-[Как подружить Elementary и BLoC(https://habr.com/ru/company/surfstudio/blog/667272/)
+[Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
+[Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
+[Как подружить Elementary и BLoC](https://habr.com/ru/company/surfstudio/blog/667272/)  
 
 ### RxDart 
-[RxDart для самых маленьких… проектов(https://habr.com/ru/post/474968/)
-[RxVMS — практичная архитектура для Flutter-приложений ч.1(https://habr.com/ru/post/448776/)
-[Основы Dart Streams ч.2(https://habr.com/ru/post/450950/)
-[RxDart: магические трансформации потоков ч.3(https://habr.com/ru/post/451292/)
-[Основы RxVMS: RxCommand и GetIt ч.4(https://habr.com/ru/post/449872/)
+[RxDart для самых маленьких… проектов](https://habr.com/ru/post/474968/)  
+[RxVMS — практичная архитектура для Flutter-приложений ч.1](https://habr.com/ru/post/448776/)  
+[Основы Dart Streams ч.2](https://habr.com/ru/post/450950/)  
+[RxDart: магические трансформации потоков ч.3](https://habr.com/ru/post/451292/)  
+[Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
 
 ### Redux
-[Пишем приложение на Flutter в связке с Redux(https://habr.com/ru/post/481624/)
+[Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 
 ## Пакеты 
-[Пакеты Flutter, которые я использую в каждом проекте(https://habr.com/ru/company/otus/blog/600013/)
-[Как написать и опубликовать идеальный пакет для Flutter(https://habr.com/ru/post/548594/)
+[Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
+[Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 
 ## Dependency Injection
  
-[GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными(https://habr.com/ru/post/665676/)
-[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter(https://habr.com/ru/company/rshb/blog/564158/)
-[GetX for Flutter. Dependency Injection для частных случаев(https://habr.com/ru/post/568488/)
-[Flutter: Мощь DI и Injectable(https://habr.com/ru/post/654119/)
-[Современные DI-тренды во Flutter-разработке(https://habr.com/ru/company/sezinnopolis/blog/588068/)
+[GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)  
+[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)  
+[GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)  
+[Flutter: Мощь DI и Injectable](https://habr.com/ru/post/654119/)  
+[Современные DI-тренды во Flutter-разработке](https://habr.com/ru/company/sezinnopolis/blog/588068/)  
 
 ## Чистый код и продуктивность
 
-[Сохраняем код чистым в приложении на Flutter(https://habr.com/ru/company/otus/blog/661609/)
-[Повышаем качество кода с Dart Code Metrics(https://habr.com/ru/company/wrike/blog/552012/)
-[Flutter: Ускоряем работу с помощью VS Code Tasks(https://habr.com/ru/post/654293/)
+[Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/company/otus/blog/661609/)  
+[Повышаем качество кода с Dart Code Metrics](https://habr.com/ru/company/wrike/blog/552012/)  
+[Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)  
 
 ## Защита данных
-[Flutter: обзор алгоритмов хэширования на основе плагина crypto(https://habr.com/ru/post/661409/)
-[Flutter: Все способы защиты данных (https://habr.com/ru/post/659999/)
+[Flutter: обзор алгоритмов хэширования на основе плагина crypto](https://habr.com/ru/post/661409/)  
+[Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)  
