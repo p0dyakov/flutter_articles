@@ -1,17 +1,17 @@
 # Различные полезные статьи по flutter & dart (дополняются).
 
 ## Основы
-[О Dart. Виды компиляции в нём](https://surf.ru/pochemu-flutter-ispolzuet-dart-a-ne-kotlin-ili-javascript/)
-[Null safety в Dart](https://habr.com/ru/post/513466/)
-[Навигация во flutter](https://habr.com/ru/post/512072/)
-[Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)
-[Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)
-[Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)
-[Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)
-[Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)
-[Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)
-[Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)
-[Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)
+[О Dart. Виды компиляции в нём](https://surf.ru/pochemu-flutter-ispolzuet-dart-a-ne-kotlin-ili-javascript/)  
+[Null safety в Dart](https://habr.com/ru/post/513466/)  
+[Навигация во flutter](https://habr.com/ru/post/512072/)  
+[Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
+[Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
+[Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)  
+[Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
+[Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
+[Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
+[Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
+[Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 
 ## Версии
 Flutter 3: что нового(https://habr.com/ru/company/surfstudio/blog/666448/)
