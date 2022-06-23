@@ -119,7 +119,7 @@
 
 ## Защита данных
 [Flutter: обзор алгоритмов хэширования на основе плагина crypto](https://habr.com/ru/post/661409/)  
-[Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)# Различные полезные статьи по flutter & dart (дополняются).
+[Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)
 
 ## Версии
 [Flutter 3: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
