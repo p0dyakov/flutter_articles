@@ -10,10 +10,10 @@
 [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
 [Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)  
-### Роутинг
+Роутинг  
 [Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
-### Ассинхронность 
+Ассинхронность  
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
 
