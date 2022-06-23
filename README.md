@@ -100,6 +100,10 @@
 [Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
 ### Provider
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)  
+### Flavors
+Организация Flavors во Flutter(https://habr.com/ru/company/surfstudio/blog/503864/)
+### Hive
+Hive — быстрая локальная база для Flutter, Dart(https://habr.com/ru/post/498070/)
 
 ## Пакеты 
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
@@ -123,3 +127,7 @@
 
 ## Версии
 [Flutter 3: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
+
+## Подвохи
+11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter(https://habr.com/ru/post/667424/)
+13 подвохов мобильного приложения, о которых лучше знать до старта разработки(https://habr.com/ru/post/549642/)
