@@ -9,10 +9,12 @@
 [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
 [Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)  
-**Навигация**  
+
+*Навигация*  
 [Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
-**Ассинхронность**  
+
+*Ассинхронность*  
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
 
@@ -37,7 +39,7 @@
 [Model-Widget-WidgetModel, или какой архитектурой пользуется Flutter-команда в Surf](https://habr.com/ru/company/surfstudio/blog/510308/)  
 [Основы архитектуры приложений на Flutter: Vanilla, Scoped Model, BLoC](https://habr.com/ru/post/438574/)  
 
-[**MVVM**](https://ru.wikipedia.org/wiki/Model-View-ViewModel)  
+[*MVVM*](https://ru.wikipedia.org/wiki/Model-View-ViewModel)  
 [Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
 [Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
 
@@ -51,34 +53,34 @@
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 
-[**Redux**](https://pub.dev/packages/redux)  
+[*Redux*](https://pub.dev/packages/redux)  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 
-[**BLoC**](https://pub.flutter-io.cn/packages/flutter_bloc)  
+[*BLoC*](https://pub.flutter-io.cn/packages/flutter_bloc)  
 [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
 [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)  
 
-[**Elementary**](https://pub.dev/packages/elementary)  
+[*Elementary*](https://pub.dev/packages/elementary)  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
 [Как подружить Elementary и BLoC](https://habr.com/ru/company/surfstudio/blog/667272/)  
 
-[**RxDart**](https://pub.dev/packages/rxdart)  
+[*RxDart*](https://pub.dev/packages/rxdart)  
 [RxDart для самых маленьких… проектов](https://habr.com/ru/post/474968/)  
 [RxVMS — практичная архитектура для Flutter-приложений ч.1](https://habr.com/ru/post/448776/)  
 [Основы Dart Streams ч.2](https://habr.com/ru/post/450950/)  
 [RxDart: магические трансформации потоков ч.3](https://habr.com/ru/post/451292/)  
 [Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
 
-[**Provider**](https://pub.dev/packages/provider)  
+[*Provider*](https://pub.dev/packages/provider)  
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)
 
-[**Hive**](https://pub.dev/packages/hive)  
+[*Hive*](https://pub.dev/packages/hive)  
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)  
 
-[**GetIt**](https://pub.dev/packages/get_it)  
+[*GetIt*](https://pub.dev/packages/get_it)  
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
 ## Истории проектов на flutter 
