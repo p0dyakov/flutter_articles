@@ -56,7 +56,7 @@
 [*Redux*](https://pub.dev/packages/redux)  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 
-[*BLoC*](https://pub.flutter-io.cn/packages/flutter_bloc)  
+[*BLoC*](https://pub.dev/packages/bloc)  
 [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
