@@ -45,6 +45,10 @@ MVVM
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)  
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
 [Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
+
+## Пакеты
+[Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
+[Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 Redux  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 BLoC  
@@ -52,10 +56,6 @@ BLoC
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
 [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)  
-
-## Пакеты
-[Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
-[Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 Elementary  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
