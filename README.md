@@ -10,7 +10,7 @@
 [Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)  
 
-Роутинг  
+Навигация  
 [Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
 Ассинхронность  
