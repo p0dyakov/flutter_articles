@@ -128,8 +128,13 @@ GetIt
 [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)
 
 ## Версии
-[Flutter 2: что нового](https://habr.com/ru/company/surfstudio/blog/546224/)  
-[Flutter 3: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
+[Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
+[Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
+[Flutter **1.7** — что нового в релизе от 10 июля 2019 года](https://habr.com/ru/post/460513/)  
+[Flutter **2**: что нового](https://habr.com/ru/company/surfstudio/blog/546224/)  
+[Flutter: Что нового в версии **2.10**](https://habr.com/ru/post/661621/)  
+[Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
+[Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
 
 ## Подвохи
 [11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter](https://habr.com/ru/post/667424/)  
