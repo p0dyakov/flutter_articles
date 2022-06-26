@@ -61,8 +61,8 @@
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
 [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)  
-[Разделение бизнес-логики и UI во Flutter с помощью BLoC-архитектуры](https://inostudio.com/blog/articles-develop/razdelenie-biznes-logiki-i-ui-vo-flutter-s-pomoshchyu-bloc-arkhitektury/)
-[Архитектурный паттерн BLoC в проекте: используем легкий Cubit](https://vc.ru/dev/293853-arhitekturnyy-pattern-bloc-v-proekte-ispolzuem-legkiy-cubit)   
+[Разделение бизнес-логики и UI во Flutter с помощью BLoC-архитектуры](https://inostudio.com/blog/articles-develop/razdelenie-biznes-logiki-i-ui-vo-flutter-s-pomoshchyu-bloc-arkhitektury/)  
+[Архитектурный паттерн BLoC в проекте: используем легкий Cubit](https://vc.ru/dev/293853-arhitekturnyy-pattern-bloc-v-proekte-ispolzuem-legkiy-cubit)    
 Из официального репозитория  
 [Архитектура c bloc](https://github.com/felangel/bloc/blob/master/docs/ru/architecture.md)  
 [Соглашения об именах](https://github.com/felangel/bloc/blob/master/docs/ru/blocnamingconventions.md)  
