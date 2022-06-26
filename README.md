@@ -105,7 +105,8 @@
 [Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://habr.com/ru/company/surfstudio/blog/517574/)  
 [Тестирование Flutter-приложений. Начало](https://habr.com/ru/company/surfstudio/blog/468631/)  
 [Тестирование Flutter-приложений: гайд по разработке тестов на Flutter](https://habr.com/ru/company/friflex/blog/666578/)  
-Тестирование UI  
+
+*Тестирование UI*  
 [Flutter: автоматизация UI тестирования](https://habr.com/ru/company/talenttech/blog/591915/)  
 [UI-тесты и лучшие практики разработки Flutter-проектов: митап Luxoft TechFest Mobile](https://habr.com/ru/company/jugru/blog/595505/)  
 
