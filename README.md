@@ -63,12 +63,11 @@
 [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)  
 [Разделение бизнес-логики и UI во Flutter с помощью BLoC-архитектуры](https://inostudio.com/blog/articles-develop/razdelenie-biznes-logiki-i-ui-vo-flutter-s-pomoshchyu-bloc-arkhitektury/)
 [Архитектурный паттерн BLoC в проекте: используем легкий Cubit](https://vc.ru/dev/293853-arhitekturnyy-pattern-bloc-v-proekte-ispolzuem-legkiy-cubit)  
-
-*Из официального репозитория*
-[Архитектура c bloc](https://github.com/felangel/bloc/blob/master/docs/ru/architecture.md)
-[Соглашения об именах](https://github.com/felangel/bloc/blob/master/docs/ru/blocnamingconventions.md)
-[Часто задаваемые вопросы](https://github.com/felangel/bloc/blob/master/docs/ru/faqs.md)
-[Flutter Bloc основные понятия](https://github.com/felangel/bloc/blob/master/docs/ru/flutterbloccoreconcepts.md)
+Из официального репозитория
+[Архитектура c bloc](https://github.com/felangel/bloc/blob/master/docs/ru/architecture.md)  
+[Соглашения об именах](https://github.com/felangel/bloc/blob/master/docs/ru/blocnamingconventions.md)  
+[Часто задаваемые вопросы](https://github.com/felangel/bloc/blob/master/docs/ru/faqs.md)  
+[Flutter Bloc основные понятия](https://github.com/felangel/bloc/blob/master/docs/ru/flutterbloccoreconcepts.md)  
 
 [*Elementary*](https://pub.dev/packages/elementary)  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
