@@ -2,7 +2,6 @@
 В данном репозитории приведены различные русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. По поводу обновления данных / добавления новых статей писать [сюда](https://t.me/p_zahar)
 
 ## Основы
-[Почему Flutter использует Dart, а не Kotlin или JavaScript](https://surf.ru/pochemu-flutter-ispolzuet-dart-a-ne-kotlin-ili-javascript/)  
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
 [Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)  
@@ -31,7 +30,8 @@
 [Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
 [Пять причин проникнуться симпатией к Flutter](https://habr.com/ru/company/ruvds/blog/349622/)  
 [Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
-[Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
+[Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)  
+[Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/)  
 
 ## Архитектура
 [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)  
