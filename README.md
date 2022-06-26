@@ -109,10 +109,9 @@ GetIt
 [Flutter: Мощь DI и Injectable](https://habr.com/ru/post/654119/)  
 [Современные DI-тренды во Flutter-разработке](https://habr.com/ru/company/sezinnopolis/blog/588068/)  
 
-## Чистый код и продуктивность
+## Чистый код
 [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/company/otus/blog/661609/)  
 [Повышаем качество кода с Dart Code Metrics](https://habr.com/ru/company/wrike/blog/552012/)  
-[Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)  
 
 ## Защита данных
 [Flutter: обзор алгоритмов хэширования на основе плагина crypto](https://habr.com/ru/post/661409/)  
@@ -135,3 +134,4 @@ GetIt
 [13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)  
 [Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его ](https://habr.com/ru/company/surfstudio/blog/661441/)  
 [Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
+[Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)  
