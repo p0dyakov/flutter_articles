@@ -31,6 +31,7 @@
 [Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
 [Пять причин проникнуться симпатией к Flutter](https://habr.com/ru/company/ruvds/blog/349622/)  
 [Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
+[Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
 
 ## Архитектура
 [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)  
