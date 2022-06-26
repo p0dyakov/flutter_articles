@@ -56,9 +56,6 @@ MVVM
 [Пример клиент-серверного приложения на Flutter](https://habr.com/ru/post/435688/)
 [Разработка приложения на Flutter с нуля до релиза: Идея + Базовая инфраструктура ч.1](https://habr.com/ru/post/594963/)  
 [Разработка приложения на Flutter с нуля до релиза. ч.2](https://habr.com/ru/post/597605/)  
-[Сервис на языке Dart: введение, инфраструктура бэкэнд ч.1](https://habr.com/ru/company/surfstudio/blog/511880/)  
-[Сервис на языке Dart: каркас серверного приложения ч.2](https://habr.com/ru/company/surfstudio/blog/515226/)  
-[Сервис на языке Dart: доменное имя, SSL ч.3 ](https://habr.com/ru/company/surfstudio/blog/512528/)  
 
 ## Производительность 
 [Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
