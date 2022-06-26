@@ -91,7 +91,7 @@
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
 ## Истории проектов на flutter 
-[Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)
+[Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)  
 [Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
 [Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/post/470251/)  
 [Быстрее нативной разработки: опыт внедрения Flutter в крупной компании](https://habr.com/ru/company/rshb/blog/533848/)  
