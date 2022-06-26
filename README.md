@@ -1,11 +1,7 @@
 # Статьи по flutter & dart
 В данном репозитории приведены различные русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. По поводу обновления данных / добавления новых статей писать [сюда](https://t.me/p_zahar)
 
-## Навигация по документу 
-<a name="#основы">Основы</a>  
-<a name="#basics">Примеры</a>   
-
-## [Основы](#basics)
+## Основы
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
 [Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)  
@@ -23,7 +19,6 @@
 ## Flutter под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
-
 [Flutter под капотом ч.1](https://habr.com/ru/company/surfstudio/blog/501862/)  
 [Flutter под капотом: Binding ч.2](https://habr.com/ru/company/surfstudio/blog/512326/)  
 [Flutter под капотом: Owners ч.3](https://habr.com/ru/company/surfstudio/blog/533210/)  
@@ -91,7 +86,7 @@ GetIt
 [1 год с Flutter в продакшне](https://habr.com/ru/post/542382/)  
 [История разработки SDK для приема платежей в мобильном приложении на Flutter](https://habr.com/ru/company/tinkoff/blog/544080/)  
 
-## [Примеры проектов](examples)
+## Примеры проектов
 [Пример клиент-серверного приложения на Flutter](https://habr.com/ru/post/435688/)
 [Разработка приложения на Flutter с нуля до релиза: Идея + Базовая инфраструктура ч.1](https://habr.com/ru/post/594963/)  
 [Разработка приложения на Flutter с нуля до релиза. ч.2](https://habr.com/ru/post/597605/)  
