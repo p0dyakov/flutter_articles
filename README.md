@@ -23,7 +23,7 @@
 [Flutter под капотом: Binding ч.2](https://habr.com/ru/company/surfstudio/blog/512326/)  
 [Flutter под капотом: Owners ч.3](https://habr.com/ru/company/surfstudio/blog/533210/)  
 
-## Почему именно flutter? Сравнение с другими технологиями. Плюсы и минусы
+## Почему именно flutter? Сравнение с другими технологиями
 [Flutter vs Native: почему мы переходим с первого на второй](https://habr.com/ru/company/ozontech/blog/648671/)  
 [Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
 [Пять причин проникнуться симпатией к Flutter](https://habr.com/ru/company/ruvds/blog/349622/)  
