@@ -9,7 +9,6 @@
 [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
 [Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)  
-
 Навигация  
 [Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
@@ -32,66 +31,32 @@
 [Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
 [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)  
 [Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/)  
+[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
 
 ## Архитектура
 [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)  
 [Model-Widget-WidgetModel, или какой архитектурой пользуется Flutter-команда в Surf](https://habr.com/ru/company/surfstudio/blog/510308/)  
 [Основы архитектуры приложений на Flutter: Vanilla, Scoped Model, BLoC](https://habr.com/ru/post/438574/)  
-
 MVVM  
 [Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
 [Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
 
-## Истории проектов на flutter 
-[Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)
-[Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
-[Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/post/470251/)  
-[Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
-[Быстрее нативной разработки: опыт внедрения Flutter в крупной компании](https://habr.com/ru/company/rshb/blog/533848/)  
-[1 год с Flutter в продакшне](https://habr.com/ru/post/542382/)  
-[История разработки SDK для приема платежей в мобильном приложении на Flutter](https://habr.com/ru/company/tinkoff/blog/544080/)  
-[Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его ](https://habr.com/ru/company/surfstudio/blog/661441/)  
-
-## Примеры проектов
-[Пример клиент-серверного приложения на Flutter](https://habr.com/ru/post/435688/)
-[Разработка приложения на Flutter с нуля до релиза: Идея + Базовая инфраструктура ч.1](https://habr.com/ru/post/594963/)  
-[Разработка приложения на Flutter с нуля до релиза. ч.2](https://habr.com/ru/post/597605/)  
-
-## Производительность 
-[Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
-[Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)  
-[Советы по оптимизации производительности растрового потока](https://habr.com/ru/company/otus/blog/581742/)  
-
-## Тесты
-[Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://habr.com/ru/company/surfstudio/blog/517574/)  
-[Тестирование Flutter-приложений. Начало](https://habr.com/ru/company/surfstudio/blog/468631/)  
-[Тестирование Flutter-приложений: гайд по разработке тестов на Flutter](https://habr.com/ru/company/friflex/blog/666578/)  
-
-Тестирование UI  
-[Flutter: автоматизация UI тестирования](https://habr.com/ru/company/talenttech/blog/591915/)  
-[UI-тесты и лучшие практики разработки Flutter-проектов: митап Luxoft TechFest Mobile](https://habr.com/ru/company/jugru/blog/595505/)  
-
-
-## Flutter & desktop
-[Flutter и настольные приложения](https://habr.com/ru/company/ruvds/blog/508128/)  
-[Flutter и десктоп разработка](https://habr.com/ru/post/505546/)  
-
 ## State managment
+[Flutter.dev: Простое управление состоянием приложения](https://habr.com/ru/company/otus/blog/518156/)  
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)  
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
 [Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
-
 Redux  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 BLoC  
 [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
+[Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)  
 
 ## Пакеты
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
-
 Elementary  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
@@ -113,6 +78,32 @@ GetX
 [GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)   
 GetIt  
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
+
+## Истории проектов на flutter 
+[Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)
+[Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
+[Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/post/470251/)  
+[Быстрее нативной разработки: опыт внедрения Flutter в крупной компании](https://habr.com/ru/company/rshb/blog/533848/)  
+[1 год с Flutter в продакшне](https://habr.com/ru/post/542382/)  
+[История разработки SDK для приема платежей в мобильном приложении на Flutter](https://habr.com/ru/company/tinkoff/blog/544080/)  
+
+## Примеры проектов
+[Пример клиент-серверного приложения на Flutter](https://habr.com/ru/post/435688/)
+[Разработка приложения на Flutter с нуля до релиза: Идея + Базовая инфраструктура ч.1](https://habr.com/ru/post/594963/)  
+[Разработка приложения на Flutter с нуля до релиза. ч.2](https://habr.com/ru/post/597605/)  
+
+## Производительность 
+[Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
+[Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)  
+[Советы по оптимизации производительности растрового потока](https://habr.com/ru/company/otus/blog/581742/)  
+
+## Тесты
+[Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://habr.com/ru/company/surfstudio/blog/517574/)  
+[Тестирование Flutter-приложений. Начало](https://habr.com/ru/company/surfstudio/blog/468631/)  
+[Тестирование Flutter-приложений: гайд по разработке тестов на Flutter](https://habr.com/ru/company/friflex/blog/666578/)  
+Тестирование UI  
+[Flutter: автоматизация UI тестирования](https://habr.com/ru/company/talenttech/blog/591915/)  
+[UI-тесты и лучшие практики разработки Flutter-проектов: митап Luxoft TechFest Mobile](https://habr.com/ru/company/jugru/blog/595505/)  
 
 ## Dependency Injection
 [Flutter: Мощь DI и Injectable](https://habr.com/ru/post/654119/)  
@@ -136,6 +127,11 @@ GetIt
 [Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
 [Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
 
-## Подвохи
+## Другое
+[Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)
+[Flutter и настольные приложения](https://habr.com/ru/company/ruvds/blog/508128/)  
+[Flutter и десктоп разработка](https://habr.com/ru/post/505546/)  
 [11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter](https://habr.com/ru/post/667424/)  
 [13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)  
+[Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его ](https://habr.com/ru/company/surfstudio/blog/661441/)  
+[Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
