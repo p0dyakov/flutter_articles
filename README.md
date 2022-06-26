@@ -38,6 +38,10 @@
 [Model-Widget-WidgetModel, или какой архитектурой пользуется Flutter-команда в Surf](https://habr.com/ru/company/surfstudio/blog/510308/)  
 [Основы архитектуры приложений на Flutter: Vanilla, Scoped Model, BLoC](https://habr.com/ru/post/438574/)  
 
+MVVM  
+[Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
+[Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
+
 ## Истории проектов на flutter 
 [Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)
 [Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
@@ -80,9 +84,6 @@
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
 [Управление состоянием приложения в Flutter](https://habr.com/ru/post/435780/)  
 
-MVVM  
-[Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
-[Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
 Redux  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 BLoC  
@@ -90,7 +91,7 @@ BLoC
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
 
-## Разбор пакетов для flutter
+## Пакеты
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 
