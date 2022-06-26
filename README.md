@@ -17,6 +17,7 @@
 *Ассинхронность*  
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
+[Dart 2. Асинхронное программирование: futures](https://habr.com/ru/post/442282/)  
 
 ## Flutter под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
@@ -53,10 +54,10 @@
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
 
-[*Redux*](https://pub.dev/packages/redux)  
+*Redux* [pub.dev](https://pub.dev/packages/redux)  
 [Пишем приложение на Flutter в связке с Redux](https://habr.com/ru/post/481624/)  
 
-[*BLoC*](https://pub.dev/packages/bloc)  
+*BLoC* [pub.dev](https://pub.dev/packages/bloc)  
 [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)  
 [Flutter. Как прокачать ваш BLoC](https://habr.com/ru/post/516764/)  
@@ -69,25 +70,25 @@
 [Часто задаваемые вопросы](https://github.com/felangel/bloc/blob/master/docs/ru/faqs.md)  
 [Flutter Bloc основные понятия](https://github.com/felangel/bloc/blob/master/docs/ru/flutterbloccoreconcepts.md)  
 
-[*Elementary*](https://pub.dev/packages/elementary)  
+*Elementary* [pub.dev](https://pub.dev/packages/elementary)  
 [Elementary: новый взгляд на архитектуру Flutter-приложений](https://habr.com/ru/company/surfstudio/blog/595619/)  
 [Как устроен Elementary](https://habr.com/ru/company/surfstudio/blog/597167/)  
 [Как подружить Elementary и BLoC](https://habr.com/ru/company/surfstudio/blog/667272/)  
 
-[*RxDart*](https://pub.dev/packages/rxdart)  
+*RxDart* [pub.dev](https://pub.dev/packages/rxdart)  
 [RxDart для самых маленьких… проектов](https://habr.com/ru/post/474968/)  
 [RxVMS — практичная архитектура для Flutter-приложений ч.1](https://habr.com/ru/post/448776/)  
 [Основы Dart Streams ч.2](https://habr.com/ru/post/450950/)  
 [RxDart: магические трансформации потоков ч.3](https://habr.com/ru/post/451292/)  
 [Основы RxVMS: RxCommand и GetIt ч.4](https://habr.com/ru/post/449872/)  
 
-[*Provider*](https://pub.dev/packages/provider)  
+*Provider* [pub.dev](https://pub.dev/packages/provider)  
 [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)
 
-[*Hive*](https://pub.dev/packages/hive)  
+*Hive* [pub.dev](https://pub.dev/packages/hive)  
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)  
 
-[*GetIt*](https://pub.dev/packages/get_it)  
+*GetIt* [pub.dev](https://pub.dev/packages/get_it)  
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
 ## Истории проектов на flutter 
@@ -107,6 +108,7 @@
 [Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
 [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)  
 [Советы по оптимизации производительности растрового потока](https://habr.com/ru/company/otus/blog/581742/)  
+[Ускоряем Dart. Нативно, недорого](https://habr.com/ru/post/547946/)
 
 ## Тесты
 [Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://habr.com/ru/company/surfstudio/blog/517574/)  
@@ -132,6 +134,7 @@
 [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)
 
 ## Версии
+*Flutter*
 [Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
 [Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
 [Flutter **1.7** — что нового в релизе от 10 июля 2019 года](https://habr.com/ru/post/460513/)  
@@ -140,13 +143,22 @@
 [Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
 [Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
 
+*Dart*
+[Анонс Dart 2.0: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
+[Релиз Dart 2.10: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
+[Dart 2.12: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
+[Dart 2.17: Продуктивность и интеграция](https://habr.com/ru/company/surfstudio/blog/667990/)  
+[Анонсирован Dart 2.2: более производительный машинный код, поддержка Set литералов](https://habr.com/ru/post/442014/)  
+[Анонсирован Dart 2.3: оптимизирован для разработки пользовательских интерфейсов](https://habr.com/ru/post/451318/)  
+
 ## Другое
-[Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)
+[Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)  
 [Flutter и настольные приложения](https://habr.com/ru/company/ruvds/blog/508128/)  
 [Flutter и десктоп разработка](https://habr.com/ru/post/505546/)  
 [11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter](https://habr.com/ru/post/667424/)  
-[13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)  
+[13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)    
 [Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его ](https://habr.com/ru/company/surfstudio/blog/661441/)  
 [Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
-[Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)  
-[Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)  
+[Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)   
+[Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)    
+[Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)
