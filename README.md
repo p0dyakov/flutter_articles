@@ -134,7 +134,7 @@
 [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)
 
 ## Версии
-*Flutter*
+*Flutter*  
 [Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
 [Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
 [Flutter **1.7** — что нового в релизе от 10 июля 2019 года](https://habr.com/ru/post/460513/)  
@@ -143,7 +143,7 @@
 [Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
 [Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
 
-*Dart*
+*Dart*  
 [Анонс Dart 2.0: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
 [Релиз Dart 2.10: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
 [Dart 2.12: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
