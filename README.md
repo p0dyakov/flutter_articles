@@ -161,4 +161,6 @@
 [Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
 [Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)   
 [Организация Flavors во Flutter](https://habr.com/ru/company/surfstudio/blog/503864/)    
-[Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)
+[Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)  
+[Паттерны проектирования в Dart](https://habr.com/ru/company/otus/blog/678714/)  
+[Flutter: как мы выбирали навигацию для мобильного приложения?](https://habr.com/ru/company/rshb/blog/584348/)  
