@@ -6,6 +6,7 @@
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
 [Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)  
 [Null safety в Dart](https://habr.com/ru/post/513466/)  
+[Sliver во Flutter, или как работает скролл](https://habr.com/ru/company/surfstudio/blog/657215/)  
 [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
 [Flutter. RenderObject — замеряй и властвуй](https://habr.com/ru/company/surfstudio/blog/513070/)  
 [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)  
