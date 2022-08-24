@@ -89,11 +89,6 @@
 *Hive* [pub.dev](https://pub.dev/packages/hive)  
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)  
 
-*GetIt* [pub.dev](https://pub.dev/packages/get_it)  
-[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
-
-*jugger.dart* [pub.dev](https://pub.dev/packages/jugger_generator)  
-
 ## Истории проектов на flutter 
 [Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)  
 [Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
@@ -128,6 +123,7 @@
 [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/)   
 [GetX for Flutter. Dependency Injection для частных случаев](https://habr.com/ru/post/568488/)   
 [jugger – внедрение зависимостей как в Android](https://habr.com/ru/post/664926/)   
+[Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
 ## Чистый код
 [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/company/otus/blog/661609/)  
