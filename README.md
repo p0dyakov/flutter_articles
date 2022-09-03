@@ -1,4 +1,11 @@
 # Статьи по flutter & dart
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
+    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
+  </a>
+</p>
+
 В данном репозитории приведены русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов
 
 ## Основы
