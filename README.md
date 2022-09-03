@@ -1,5 +1,3 @@
-# Статьи по flutter & dart
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
     <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
