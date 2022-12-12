@@ -4,7 +4,8 @@
   </a>
 </p>
 
-В данном репозитории приведены русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов
+В данном репозитории приведены русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов  
+Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 
 ## Основы
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
