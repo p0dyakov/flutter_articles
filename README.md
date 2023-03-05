@@ -41,7 +41,7 @@
 [Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
 [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)  
 [Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/)  
-[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
+[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)  
 [Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/)
 
 ## Архитектура
@@ -153,16 +153,16 @@
 [Flutter: Что нового в версии **2.10**](https://habr.com/ru/post/661621/)  
 [Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
 [Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
-[Flutter 3.3: что нового](https://habr.com/ru/company/surfstudio/blog/688194/)
-[Flutter 3.7 — Что нового во Flutter](https://habr.com/ru/post/712894/)  
+[Flutter **3.3**: что нового](https://habr.com/ru/company/surfstudio/blog/688194/)
+[Flutter **3.7** — Что нового во Flutter](https://habr.com/ru/post/712894/)  
 
 *Dart*  
-[Анонс Dart 2.0: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
-[Релиз Dart 2.10: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
-[Dart 2.12: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
-[Dart 2.17: Продуктивность и интеграция](https://habr.com/ru/company/surfstudio/blog/667990/)  
-[Анонсирован Dart 2.2: более производительный машинный код, поддержка Set литералов](https://habr.com/ru/post/442014/)  
-[Анонсирован Dart 2.3: оптимизирован для разработки пользовательских интерфейсов](https://habr.com/ru/post/451318/)  
+[Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
+[Релиз Dart **2.10**: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
+[Dart **2.12**: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
+[Dart **2.17**: Продуктивность и интеграция](https://habr.com/ru/company/surfstudio/blog/667990/)  
+[Анонсирован Dart **2.2**: более производительный машинный код, поддержка Set литералов](https://habr.com/ru/post/442014/)  
+[Анонсирован Dart **2.3**: оптимизирован для разработки пользовательских интерфейсов](https://habr.com/ru/post/451318/)  
 
 ## Другое
 [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)  
