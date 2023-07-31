@@ -26,6 +26,7 @@
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
 [Dart 2. Асинхронное программирование: futures](https://habr.com/ru/post/442282/)  
 [Dart: Асинхронность](https://habr.com/ru/post/720352/)  
+[Магия асинхронных операций: взгляд изнутри. Future](https://habr.com/ru/companies/ligastavok/articles/539782/)
 
 ## Flutter под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
