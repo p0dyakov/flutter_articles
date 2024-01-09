@@ -50,7 +50,7 @@
 [Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)  
 
 <!-- TOC --><a name=""></a>
-## Асинхронность
+### Асинхронность
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
 [Dart 2. Асинхронное программирование: futures](https://habr.com/ru/post/442282/)  
@@ -62,7 +62,7 @@
 [4.0 Асинхронность. Isolates, потоки, процессы](https://habr.com/ru/articles/756404/)  
 
 <!-- TOC --><a name="--1"></a>
-## Под капотом
+### Под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter под капотом ч.1](https://habr.com/ru/company/surfstudio/blog/501862/)  
@@ -71,7 +71,7 @@
 [Метод setState() во Flutter может работать не так, как вы это представляете](https://habr.com/ru/articles/745726/)  
 
 <!-- TOC --><a name="-1"></a>
-## Шейдеры
+### Шейдеры
 [Использование шейдеров во Flutter. Часть 1](https://habr.com/ru/company/friflex/blog/713298/)  
 [Использование шейдеров во Flutter. Часть 2](https://habr.com/ru/company/friflex/blog/714956/)  
 [Flutter jank shaders — история проблемы и пути решения](https://habr.com/ru/companies/rshb/articles/680586/)  
@@ -247,7 +247,7 @@
 <!-- TOC --><a name="-12"></a>
 # Версии
 <!-- TOC --><a name="flutter"></a>
-## Flutter
+### Flutter
 [Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
 [Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
 [Flutter **1.7** — что нового в релизе от 10 июля 2019 года](https://habr.com/ru/post/460513/)  
@@ -268,7 +268,7 @@
 [Flutter **3.3**: что нового](https://habr.com/ru/companies/surfstudio/articles/688194/)  
 
 <!-- TOC --><a name="dart"></a>
-## Dart
+### Dart
 [Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
 [Релиз Dart **2.10**: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
 [Dart **2.12**: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
@@ -283,7 +283,7 @@
 [Новый линт в Dart **3.2**](https://habr.com/ru/articles/774744/)  
 
 <!-- TOC --><a name="-13"></a>
-## Будущее
+### Будущее
 [Что ждёт Flutter в будущем](https://habr.com/ru/companies/surfstudio/articles/718500/)  
 [Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/)  
 [Перспективы развития Flutter](https://habr.com/ru/articles/726836/)  
