@@ -8,7 +8,7 @@
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Flutter и dart](#--)
+- [Flutter и Dart](#--)
    * [Асинхронность](#)
    * [Списки  ](#-1)
    * [Под капотом](#-)
@@ -38,7 +38,7 @@
 - [Другое](#-14)
 
 <!-- TOC end -->
-# Flutter и dart
+# Flutter и Dart
 ## Асинхронность
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
