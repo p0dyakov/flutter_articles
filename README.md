@@ -142,7 +142,7 @@
 
 ## Защита данных
 [Flutter: обзор алгоритмов хэширования на основе плагина crypto](https://habr.com/ru/post/661409/)  
-[Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)
+[Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)  
 [Поговорим про безопасность в Dart и Flutter](https://habr.com/ru/company/otus/blog/676138/)  
 
 ## Версии
@@ -154,8 +154,8 @@
 [Flutter: Что нового в версии **2.10**](https://habr.com/ru/post/661621/)  
 [Flutter **2.8**: что нового](https://habr.com/ru/company/surfstudio/blog/596405/)  
 [Flutter **3**: что нового](https://habr.com/ru/company/surfstudio/blog/666448/)  
-[Flutter **3.3**: что нового](https://habr.com/ru/company/surfstudio/blog/688194/)
-[Flutter **3.7** — Что нового во Flutter](https://habr.com/ru/post/712894/)  
+[Flutter **3.3**: что нового](https://habr.com/ru/company/surfstudio/blog/688194/)  
+[Flutter **3.7** — Что нового во Flutter](https://habr.com/ru/post/712894/)    
 
 *Dart*  
 [Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
