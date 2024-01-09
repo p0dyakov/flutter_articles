@@ -18,11 +18,7 @@
 [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)  
 [Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)  
 
-*Навигация*  
-[Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
-[Навигация во flutter](https://habr.com/ru/post/512072/)  
-
-*Асинхронность*  
+### Асинхронность
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
 [Dart 2. Асинхронное программирование: futures](https://habr.com/ru/post/442282/)  
@@ -33,7 +29,7 @@
 [3.0 Асинхронность. async и await](https://habr.com/ru/articles/754280/)  
 [4.0 Асинхронность. Isolates, потоки, процессы](https://habr.com/ru/articles/756404/)  
 
-*Под капотом*  
+### Под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter под капотом ч.1](https://habr.com/ru/company/surfstudio/blog/501862/)  
@@ -41,12 +37,12 @@
 [Flutter под капотом: Owners ч.3](https://habr.com/ru/company/surfstudio/blog/533210/)  
 [Метод setState() во Flutter может работать не так, как вы это представляете](https://habr.com/ru/articles/745726/)  
 
-*Шейдеры*  
+### Шейдеры
 [Использование шейдеров во Flutter. Часть 1](https://habr.com/ru/company/friflex/blog/713298/)  
 [Использование шейдеров во Flutter. Часть 2](https://habr.com/ru/company/friflex/blog/714956/)  
 [Flutter jank shaders — история проблемы и пути решения](https://habr.com/ru/companies/rshb/articles/680586/)  
 
-*Списки*  
+### Списки  
 [Актуализация данных в списках Flutter-приложения](https://habr.com/ru/articles/656297/)  
 [Работа со списками во Flutter-приложениях (часть 2)](https://habr.com/ru/articles/688864/)  
 [Sliver во Flutter, или как работает скролл](https://habr.com/ru/company/surfstudio/blog/657215/)  
@@ -95,6 +91,8 @@
 [Flutter: как мы выбирали навигацию для мобильного приложения?](https://habr.com/ru/company/rshb/blog/584348/)   
 [Управляем навигацией во Flutter с помощью библиотеки auto_route. Часть 1](https://habr.com/ru/companies/friflex/articles/772234/)  
 [Deeplinks и Flutter](https://habr.com/ru/post/692930/)   
+[Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
+[Навигация во flutter](https://habr.com/ru/post/512072/)  
 
 ## Производительность 
 [Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
@@ -196,7 +194,7 @@
 [Приложение для инженеров на Flutter](https://habr.com/ru/articles/728782/)  
 
 ## Версии
-*Flutter*  
+### Flutter
 [Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
 [Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
 [Flutter **1.7** — что нового в релизе от 10 июля 2019 года](https://habr.com/ru/post/460513/)  
@@ -216,7 +214,7 @@
 [Flutter **3.16**: что нового](https://habr.com/ru/companies/friflex/articles/774594/)  
 [Flutter **3.3**: что нового](https://habr.com/ru/companies/surfstudio/articles/688194/)  
 
-*Dart*  
+### Dart
 [Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
 [Релиз Dart **2.10**: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
 [Dart **2.12**: Sound null safety и Dart FFI отправлены на стабильный канал](https://habr.com/ru/company/surfstudio/blog/548460/)  
@@ -230,7 +228,7 @@
 [Анонс Dart **3.2**](https://habr.com/ru/articles/774902/)  
 [Новый линт в Dart **3.2**](https://habr.com/ru/articles/774744/)  
 
-*Будущее*  
+### Будущее
 [Что ждёт Flutter в будущем](https://habr.com/ru/companies/surfstudio/articles/718500/)  
 [Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/)  
 [Перспективы развития Flutter](https://habr.com/ru/articles/726836/)  
