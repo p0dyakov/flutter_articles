@@ -7,7 +7,7 @@
 В данном репозитории приведены русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пул реквесты приветствуются  
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 
-## Основы
+## Фреймворк и язык
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
 [Dart. Всё, что надо знать про константы](https://habr.com/ru/post/501804/)  
@@ -32,22 +32,12 @@
 [3.0 Асинхронность. async и await](https://habr.com/ru/articles/754280/)  
 [4.0 Асинхронность. Isolates, потоки, процессы](https://habr.com/ru/articles/756404/)  
 
-## Flutter под капотом
+*Flutter под капотом*  
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter под капотом ч.1](https://habr.com/ru/company/surfstudio/blog/501862/)  
 [Flutter под капотом: Binding ч.2](https://habr.com/ru/company/surfstudio/blog/512326/)  
 [Flutter под капотом: Owners ч.3](https://habr.com/ru/company/surfstudio/blog/533210/)  
-
-## Почему именно flutter? Сравнение с другими технологиями
-[Flutter vs Native: почему мы переходим с первого на второй](https://habr.com/ru/company/ozontech/blog/648671/)  
-[Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
-[Пять причин проникнуться симпатией к Flutter](https://habr.com/ru/company/ruvds/blog/349622/)  
-[Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
-[Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)  
-[Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/)  
-[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)  
-[Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/)
 
 ## Архитектура
 [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)  
@@ -193,6 +183,16 @@
 [Модификаторы классов в Dart **3.0**](https://habr.com/ru/articles/765736/)  
 [Анонс Dart **3.2**](https://habr.com/ru/articles/774902/)  
 [Новый линт в Dart **3.2**](https://habr.com/ru/articles/774744/)  
+
+## Преимущества и недостатки Flutter
+[Flutter vs Native: почему мы переходим с первого на второй](https://habr.com/ru/company/ozontech/blog/648671/)  
+[Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
+[Пять причин проникнуться симпатией к Flutter](https://habr.com/ru/company/ruvds/blog/349622/)  
+[Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)  
+[Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)  
+[Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/)  
+[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)  
+[Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/)
 
 ## Другое
 [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)  
