@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
+    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
+  </a>
+</p>
+
+В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пулл реквесты приветствуются  
+Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Фреймворк и язык](#-)
@@ -29,16 +37,6 @@
 - [Другое](#-14)
 
 <!-- TOC end -->
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
-    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
-  </a>
-</p>
-
-В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пулл реквесты приветствуются  
-Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
-
 <!-- TOC --><a name="-"></a>
 ## Фреймворк и язык
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
