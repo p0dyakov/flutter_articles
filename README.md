@@ -1,3 +1,35 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Фреймворк и язык](#-)
+   * [Асинхронность](#)
+   * [Под капотом](#--1)
+   * [Шейдеры](#-1)
+   * [Списки  ](#-2)
+- [Архитектура и управление состоянием](#--2)
+- [Чистый код](#--3)
+- [Паттерны проектирования](#--4)
+- [Базы данных](#--5)
+- [Навигация](#-3)
+- [Производительность ](#-4)
+- [Тестирование](#-5)
+- [CI / CD](#ci-cd)
+- [Dependency Injection](#dependency-injection)
+- [Пакеты](#-6)
+- [Безопасность](#-7)
+- [Натив](#-8)
+- [Собеседования](#-9)
+- [Советы](#-10)
+- [Ускорение разработки](#--6)
+- [Кейсы](#-11)
+- [Версии](#-12)
+   * [Flutter](#flutter)
+   * [Dart](#dart)
+   * [Будущее](#-13)
+- [Преимущества и недостатки Flutter](#-flutter)
+- [Другое](#-14)
+
+<!-- TOC end -->
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
     <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
@@ -7,6 +39,7 @@
 В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пулл реквесты приветствуются  
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 
+<!-- TOC --><a name="-"></a>
 ## Фреймворк и язык
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
@@ -18,6 +51,7 @@
 [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/)  
 [Зоны в Dart: операция на открытом сердце для окружения](https://habr.com/ru/company/wrike/blog/510270/)  
 
+<!-- TOC --><a name=""></a>
 ### Асинхронность
 [Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
 [Flutter: простыми словами про ассинхронность и параллельность](https://habr.com/ru/post/654047/)  
@@ -29,6 +63,7 @@
 [3.0 Асинхронность. async и await](https://habr.com/ru/articles/754280/)  
 [4.0 Асинхронность. Isolates, потоки, процессы](https://habr.com/ru/articles/756404/)  
 
+<!-- TOC --><a name="--1"></a>
 ### Под капотом
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
@@ -37,16 +72,19 @@
 [Flutter под капотом: Owners ч.3](https://habr.com/ru/company/surfstudio/blog/533210/)  
 [Метод setState() во Flutter может работать не так, как вы это представляете](https://habr.com/ru/articles/745726/)  
 
+<!-- TOC --><a name="-1"></a>
 ### Шейдеры
 [Использование шейдеров во Flutter. Часть 1](https://habr.com/ru/company/friflex/blog/713298/)  
 [Использование шейдеров во Flutter. Часть 2](https://habr.com/ru/company/friflex/blog/714956/)  
 [Flutter jank shaders — история проблемы и пути решения](https://habr.com/ru/companies/rshb/articles/680586/)  
 
+<!-- TOC --><a name="-2"></a>
 ### Списки  
 [Актуализация данных в списках Flutter-приложения](https://habr.com/ru/articles/656297/)  
 [Работа со списками во Flutter-приложениях (часть 2)](https://habr.com/ru/articles/688864/)  
 [Sliver во Flutter, или как работает скролл](https://habr.com/ru/company/surfstudio/blog/657215/)  
 
+<!-- TOC --><a name="--2"></a>
 ## Архитектура и управление состоянием
 [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)  
 [Model-Widget-WidgetModel, или какой архитектурой пользуется Flutter-команда в Surf](https://habr.com/ru/company/surfstudio/blog/510308/)  
@@ -70,11 +108,13 @@
 [Проектируем flutter-приложение «чистым» способом используя bloc](https://habr.com/ru/articles/733960/)  
 [Event Bus: пишем шину событий во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/768060/)  
 
+<!-- TOC --><a name="--3"></a>
 ## Чистый код
 [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/company/otus/blog/661609/)  
 [Повышаем качество кода с Dart Code Metrics](https://habr.com/ru/company/wrike/blog/552012/)  
 [Правильное понимание Single Responsibility Principle (SRP) в Dart/Flutter](https://habr.com/ru/articles/784528/)  
 
+<!-- TOC --><a name="--4"></a>
 ## Паттерны проектирования
 [Паттерны проектирования в Dart](https://habr.com/ru/company/otus/blog/678714/)  
 [Паттерны проектирования в Dart. Часть 2](https://habr.com/ru/company/otus/blog/681328/)  
@@ -82,11 +122,13 @@
 [Паттерны проектирования на Dart с примерами кода. Часть 1](https://habr.com/ru/articles/736364/)  
 [Паттерны проектирования на Dart с примерами кода. Часть 2](https://habr.com/ru/articles/737038/)  
 
+<!-- TOC --><a name="--5"></a>
 ## Базы данных
 [Hive — быстрая локальная база для Flutter, Dart](https://habr.com/ru/post/498070/)  
 [Flutter. Локальная база данных](https://habr.com/ru/companies/digdes/articles/770950/)  
 [SharedPreferences отличное хранилище для вашего flutter-приложения. Но есть нюансы…](https://habr.com/ru/articles/724706/)  
 
+<!-- TOC --><a name="-3"></a>
 ## Навигация
 [Flutter: как мы выбирали навигацию для мобильного приложения?](https://habr.com/ru/company/rshb/blog/584348/)   
 [Управляем навигацией во Flutter с помощью библиотеки auto_route. Часть 1](https://habr.com/ru/companies/friflex/articles/772234/)  
@@ -94,6 +136,7 @@
 [Все, что вам нужно знать о маршрутизации между страницами Flutter](https://habr.com/ru/company/otus/blog/539190/)  
 [Навигация во flutter](https://habr.com/ru/post/512072/)  
 
+<!-- TOC --><a name="-4"></a>
 ## Производительность 
 [Тестирование производительности Flutter приложений](https://habr.com/ru/post/451840/)  
 [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)  
@@ -103,6 +146,7 @@
 [«Разгоняем» HashSet, HashMap и циклы на примере Dart](https://habr.com/ru/articles/772462/)  
 [Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/)  
 
+<!-- TOC --><a name="-5"></a>
 ## Тестирование
 [Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://habr.com/ru/company/surfstudio/blog/517574/)  
 [Тестирование Flutter-приложений. Начало](https://habr.com/ru/company/surfstudio/blog/468631/)  
@@ -113,11 +157,13 @@
 [UI-тесты и лучшие практики разработки Flutter-проектов: митап Luxoft TechFest Mobile](https://habr.com/ru/company/jugru/blog/595505/)  
 [Автоматизированное тестирование событий аналитики в мобильном приложении: насколько это реально и оправдано](https://habr.com/ru/companies/surfstudio/articles/782162/)  
 
+<!-- TOC --><a name="ci-cd"></a>
 ## CI / CD
 [Используем бесплатные возможности Github Actions для CI/CD на Flutter-проекте](https://habr.com/ru/company/surfstudio/blog/520506/)    
 [Анализ кода в Flutter-приложениях и настройка сборочной линии Gitlab CI для анализа](https://habr.com/ru/post/717708/)  
 [Инструкция: как быстро настроить GitLab CI/CD на Flutter-проекте](https://habr.com/ru/companies/agima/articles/779028/)  
 
+<!-- TOC --><a name="dependency-injection"></a>
 ## Dependency Injection
 [Flutter: Мощь DI и Injectable](https://habr.com/ru/post/654119/)  
 [Современные DI-тренды во Flutter-разработке](https://habr.com/ru/company/sezinnopolis/blog/588068/)  
@@ -126,6 +172,7 @@
 [jugger – внедрение зависимостей как в Android](https://habr.com/ru/post/664926/)   
 [Внедрение зависимостей (Dependency Injection) с GetIt во Flutter](https://habr.com/ru/company/rshb/blog/564158/)   
 
+<!-- TOC --><a name="-6"></a>
 ## Пакеты
 [Пакеты Flutter, которые я использую в каждом проекте](https://habr.com/ru/company/otus/blog/600013/)  
 [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/)  
@@ -142,11 +189,13 @@
 [Flutter Yandex Mapkit: как внедрить основные инструменты Яндекс Карт в проект на Flutter. Часть 2](https://habr.com/ru/companies/friflex/articles/770200/)  
 [Шесть открытых библиотек от Mad Brains, которые упростят жизнь Flutter-разработчика](https://habr.com/ru/articles/724236/)  
 
+<!-- TOC --><a name="-7"></a>
 ## Безопасность
 [Flutter: обзор алгоритмов хэширования на основе плагина crypto](https://habr.com/ru/post/661409/)  
 [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/)  
 [Поговорим про безопасность в Dart и Flutter](https://habr.com/ru/company/otus/blog/676138/)  
 
+<!-- TOC --><a name="-8"></a>
 ## Натив
 [Flutter и настольные приложения](https://habr.com/ru/company/ruvds/blog/508128/)  
 [Flutter и десктоп разработка](https://habr.com/ru/post/505546/)  
@@ -154,10 +203,12 @@
 [Flutter и работа с нативным кодом на примере библиотеки для работы с NFC](https://habr.com/ru/articles/770842/)  
 [Flutter Web умер. Да здравствует Flutter Web](https://habr.com/ru/companies/pyrobyte/articles/779226/)  
 
+<!-- TOC --><a name="-9"></a>
 ## Собеседования
 [10 популярных вопросов, которые нужно знать, чтобы пройти собеседование на позицию Flutter-разработчика](https://habr.com/ru/post/708692/)  
 [Мой опыт flutter собеседований](https://habr.com/ru/post/678560/)  
 
+<!-- TOC --><a name="-10"></a>
 ## Советы
 [11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter](https://habr.com/ru/post/667424/)  
 [13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)    
@@ -166,6 +217,7 @@
 [Как не «сломать» вёрстку Flutter-приложения из-за textScaleFactor](https://habr.com/ru/company/surfstudio/blog/720098/)  
 [12 методик, которые помогут создавать приложения на Flutter легко и просто](https://habr.com/ru/post/713702/)  
 
+<!-- TOC --><a name="--6"></a>
 ## Ускорение разработки
 [Создание инициализатора Flutter-проектов. Чисто и SOLIDно](https://habr.com/ru/company/surfstudio/blog/680480/)  
 [Flutter: Ускоряем работу с помощью VS Code Tasks](https://habr.com/ru/post/654293/)   
@@ -175,6 +227,7 @@
 [Ускоряем разработку за счет пакета Mason на Flutter](https://habr.com/ru/articles/705798/)  
 [Кодогенерация Dart](https://habr.com/ru/articles/724184/)  
 
+<!-- TOC --><a name="-11"></a>
 ## Кейсы
 [Новое приложение «Медузы». Почему Flutter?](https://habr.com/ru/company/meduza/blog/501786/)  
 [Как мы сделали мобильное приложение для курьеров «ВкусВилл» за 9 дней](https://habr.com/ru/company/automacon/blog/551436/)  
@@ -193,7 +246,9 @@
 [Как мы стриминг пилили, или 5 неочевидных палок в колеса от Flutter](https://habr.com/ru/companies/surfstudio/articles/730340/)  
 [Приложение для инженеров на Flutter](https://habr.com/ru/articles/728782/)  
 
+<!-- TOC --><a name="-12"></a>
 ## Версии
+<!-- TOC --><a name="flutter"></a>
 ### Flutter
 [Анонс Flutter **1.20**](https://habr.com/ru/company/surfstudio/blog/515042/)  
 [Анонс Flutter **1.22**](https://habr.com/ru/company/surfstudio/blog/522244/)  
@@ -214,6 +269,7 @@
 [Flutter **3.16**: что нового](https://habr.com/ru/companies/friflex/articles/774594/)  
 [Flutter **3.3**: что нового](https://habr.com/ru/companies/surfstudio/articles/688194/)  
 
+<!-- TOC --><a name="dart"></a>
 ### Dart
 [Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
 [Релиз Dart **2.10**: на шаг ближе к null-safety](https://habr.com/ru/company/wrike/blog/522794/)  
@@ -228,11 +284,13 @@
 [Анонс Dart **3.2**](https://habr.com/ru/articles/774902/)  
 [Новый линт в Dart **3.2**](https://habr.com/ru/articles/774744/)  
 
+<!-- TOC --><a name="-13"></a>
 ### Будущее
 [Что ждёт Flutter в будущем](https://habr.com/ru/companies/surfstudio/articles/718500/)  
 [Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/)  
 [Перспективы развития Flutter](https://habr.com/ru/articles/726836/)  
 
+<!-- TOC --><a name="-flutter"></a>
 ## Преимущества и недостатки Flutter
 [Flutter vs Native: почему мы переходим с первого на второй](https://habr.com/ru/company/ozontech/blog/648671/)  
 [Сравнение React Native и Flutter с точки зрения их применения в реальных проектах](https://habr.com/ru/company/ruvds/blog/478322/)  
@@ -248,6 +306,7 @@
 [Болевые точки Dart и Flutter](https://habr.com/ru/articles/724538/)  
 [Flutter: заказывать или не заказывать? Откровения разработчика](https://habr.com/ru/articles/766826/)  
 
+<!-- TOC --><a name="-14"></a>
 ## Другое
 [Flutter: Настройка тем приложения](https://habr.com/ru/post/690572/)  
 [3D-объекты во Flutter. Расширяем Flame](https://habr.com/ru/company/otus/blog/677844/)  
