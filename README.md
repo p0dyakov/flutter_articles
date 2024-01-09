@@ -32,7 +32,7 @@
 [3.0 Асинхронность. async и await](https://habr.com/ru/articles/754280/)  
 [4.0 Асинхронность. Isolates, потоки, процессы](https://habr.com/ru/articles/756404/)  
 
-*Flutter под капотом*  
+*Под капотом*  
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter под капотом ч.1](https://habr.com/ru/company/surfstudio/blog/501862/)  
@@ -46,8 +46,6 @@
 [Структура Flutter-приложения: feature-first или layer-first](https://habr.com/ru/articles/772802/)  
 [Flutter. MVVM. Начало](https://habr.com/ru/company/digdes/blog/660411/)  
 [Архитектура MVVM в мобильных приложениях на Flutter](https://habr.com/ru/post/427327/)  
-
-## State managment
 [Flutter.dev: Простое управление состоянием приложения](https://habr.com/ru/company/otus/blog/518156/)  
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)  
 [Состояние Flutter на изолятах](https://habr.com/ru/post/532862/)  
@@ -260,7 +258,6 @@
 [Шесть открытых библиотек от Mad Brains, которые упростят жизнь Flutter-разработчика](https://habr.com/ru/articles/724236/)  
 [Кодогенерация Dart](https://habr.com/ru/articles/724184/)  
 [Переходим на Flutter: за и против](https://habr.com/ru/articles/722466/)  
-[Dart: Асинхронность](https://habr.com/ru/articles/720352/)  
 [Как не «сломать» вёрстку Flutter-приложения из-за textScaleFactor](https://habr.com/ru/companies/surfstudio/articles/720098/)  
 [Один плагин, чтоб править всеми. Как разработать сканер на Flutter для 3 платформ и ускорить ввод данных в 2 раза](https://habr.com/ru/companies/simbirsoft/articles/719664/)  
 [Что ждёт Flutter в будущем](https://habr.com/ru/companies/surfstudio/articles/718500/)  
