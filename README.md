@@ -209,7 +209,6 @@
 [13 подвохов мобильного приложения, о которых лучше знать до старта разработки](https://habr.com/ru/post/549642/)    
 [Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его ](https://habr.com/ru/company/surfstudio/blog/661441/)  
 [Секреты запуска Flutter в production. Создаем IT-верфи](https://habr.com/ru/company/atisu/blog/597709/)  
-[Как не «сломать» вёрстку Flutter-приложения из-за textScaleFactor](https://habr.com/ru/company/surfstudio/blog/720098/)  
 [12 методик, которые помогут создавать приложения на Flutter легко и просто](https://habr.com/ru/post/713702/)  
 
 # Ускорение разработки
