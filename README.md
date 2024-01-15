@@ -4,7 +4,7 @@
   </a>
 </p>
 
-В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пулл реквесты приветствуются  
+В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пул реквесты приветствуются  
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
