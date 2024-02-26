@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://raw.githubusercontent.com/p-zahar/flutter_articles">
-    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_articles/main/logo.png">
-  </a>
-</p>
-
+![Flutter Articles](https://github.com/p0dyakov/flutter_articles/assets/80569772/c0126feb-f8b2-44d5-8a81-2d7ca17e7a16)
 В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пул реквесты приветствуются  
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap)
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
