@@ -1,8 +1,7 @@
 ![Flutter Articles](https://github.com/p0dyakov/flutter_articles/assets/80569772/c0126feb-f8b2-44d5-8a81-2d7ca17e7a16)
 **Репозитории:** [Flutter Interview](https://github.com/p0dyakov/flutter_interview), [Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap), [Flutter Acrticles](https://github.com/p0dyakov/flutter_articles), [Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages), [Flutter Tools](https://github.com/p0dyakov/flutter_tools)  
-В данном репозитории собраны русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов. Пул реквесты приветствуются  
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 - [Flutter и Dart](#--)
    * [Асинхронность](#)
    * [Списки  ](#-1)
